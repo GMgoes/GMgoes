@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400" alt="journey" src="https://omori.wiki/images/c/cc/FA_ALBUM_46.png"/>
+<img align="right" width="400" alt="mari-omori" src="https://omori.wiki/images/c/cc/FA_ALBUM_46.png"/>
 
 <h2>about me</h2>
   
@@ -50,7 +50,7 @@
   Discord: guus#5785
   
 </br>
-
+<p align="right"><em>my thoughts will follow you into your dreams</em></p>
 
 ------
 Credit: [zillastar](https://github.com/zillastar) <br>
