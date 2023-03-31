@@ -26,7 +26,6 @@
     <img src = "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt = "AWS" />
     <img src = "https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt = "graphql" />
     <img src = "https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt = "docker" /><br>
-    <img src = "https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt = "jest" />
     <img src = "https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown" alt = "mocha" />
     <img src = "https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" alt = "chai" />    
   
@@ -45,6 +44,7 @@
 
   <img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt = "mongodb" />
   <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql" />
+  <img src = "https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt = "jest" />
 <br>
 
 - <h4>contact me</h4>
