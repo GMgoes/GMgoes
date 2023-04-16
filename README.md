@@ -36,7 +36,6 @@
   
   <img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt = "mongodb" />
   <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql" />
-  <img src = "https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt = "jest" />
 <br>
 
 - <h4>contact me</h4>
