@@ -6,7 +6,7 @@
 
 <h2>about me</h2>
   
-<p>I’m Gustavo, 21 yr old. I’m a student living in Mato Grosso do Sul, Brasil. I am a fan of technology, music, and programming. I’m also love in animals and games.</p>
+<p>I'm 21 years old, I currently live in Mato Grosso do Sul, Brazil. I'm passionate about games and also pets 🐶</p>
 
 - ⭐ currently working on **back-end development**
 - 💼 Intern at **Compass UOL** - https://compass.uol/en/home/
