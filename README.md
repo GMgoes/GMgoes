@@ -6,7 +6,7 @@
 
 <h2>about me</h2>
   
-<p>I'm 21 years old, I currently live in Mato Grosso do Sul, Brazil. I'm passionate about games and also pets 🐶</p>
+<p>I'm 21 years old, I currently live in Mato Grosso do Sul, Brazil. I'm passionate about games, books and pets 🐶</p>
 
 - ⭐ currently working on **back-end development**
 - 💼 Intern at **Compass UOL** - https://compass.uol/en/home/
