@@ -42,7 +42,7 @@
 
 - <h4>contact me</h4>
   Email: <b>ggoes269@gmail.com </b><br>
-  Discord: guus#5785
+  Discord: gusmgoes#5785
   
 </br>
 <p align="right"><em>my thoughts will follow you into your dreams</em></p>
