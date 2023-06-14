@@ -8,8 +8,8 @@
   
 <p>I'm 21 years old, I currently live in Mato Grosso do Sul, Brazil. I'm passionate about games, books and pets 🐶</p>
 
-- ⭐ currently working on **back-end development**
-- 💼 Intern at **Compass UOL** - https://compass.uol/en/home/
+- ⭐ i'm not working on anything specific at the moment
+- 💼 -
 - 📈 mostly working on **stage private repositories**
 - 🧠 studying a **lot** to be able to understand a **little** about our world
 
