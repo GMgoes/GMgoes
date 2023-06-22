@@ -25,7 +25,7 @@
   
   - <h5> currently learning </h5>
   <img src = "https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt = "nest" />
-  <img src = "https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt = "jest" />
+  <img src = "https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt = "kaggle" />
   
 <br>
 
@@ -38,11 +38,14 @@
   <img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt = "mongodb" />
   <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql" /> <br>
   <img src = "https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt = "scikit" />
+  <img src = "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt = "numpy" />
+  <img src = "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt = "pandas" />
+  
 <br>
 
 - <h4>contact me</h4>
   Email: <b>ggoes269@gmail.com </b><br>
-  Discord: gusmgoes#5785
+  Discord: gusmgoes
   
 </br>
 <p align="right"><em>my thoughts will follow you into your dreams</em></p>
