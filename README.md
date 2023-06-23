@@ -6,11 +6,10 @@
 
 <h2>about me</h2>
   
-<p>I'm 21 years old, I currently live in Mato Grosso do Sul, Brazil. I'm passionate about games, books and pets 🐶</p>
+<p>I'm 21 years old, i currently live in Mato Grosso do Sul, Brazil. I'm passionate about games, books and pets 🐶</p>
 
-- ⭐ i'm not working on anything specific at the moment
-- 💼 -
-- 📈 mostly working on **stage private repositories**
+- ⭐ i'm not working on anything specific at the moment (studying)
+- 💼 backend Developer (Trainee) at [Compass UOL](https://compass.uol/en/home/)
 - 🧠 studying a **lot** to be able to understand a **little** about our world
 
 <h2>current skills</h2>
@@ -44,7 +43,8 @@
 <br>
 
 - <h4>contact me</h4>
-  Email: <b>ggoes269@gmail.com </b><br>
+  Email: <b>ggoes269@gmail.com</b> <br>
+  Kaggle: gmgoes<br>
   Discord: gusmgoes
   
 </br>
