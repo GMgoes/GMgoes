@@ -36,13 +36,13 @@
   <img src = "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt = "numpy" />
   <img src = "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt = "pandas" />
 
-- <h4>contact me</h4>
-  Email: <b>ggoes269@gmail.com</b> <br>
-  Kaggle: gmgoes<br>
-  Discord: gusmgoes
-  Linkedin: [Gustavo Goes](https://www.linkedin.com/in/gustavo-goes-7b6221225/)
+<br>
+
+Email: <b>ggoes269@gmail.com</b> <br>
+Kaggle: <b> [gmgoes](https://www.kaggle.com/gmgoes) </b> <br> 
+Discord: <b> gusmgoes </b> <br>
+Linkedin: <b> [Gustavo Goes](https://www.linkedin.com/in/gustavo-goes-7b6221225/) </b>
   
-</br>
 <p align="right"><em>my thoughts will follow you into your dreams</em></p>
 
 ------
