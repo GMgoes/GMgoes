@@ -6,7 +6,7 @@
 
 <h2>about me</h2>
   
-<p>I'm 21 years old, i currently live in Mato Grosso do Sul, Brazil. I'm passionate about games, books and pets 🐶</p>
+<p>I'm 21 years old, i currently live in Mato Grosso do Sul, Brazil. I'm passionate about games, books and pets 🐶🐱</p>
 
 - ⭐ i'm not working on anything specific at the moment (studying)
 - 💼 backend developer (Trainee) at [Compass UOL](https://compass.uol/en/home/)
@@ -21,13 +21,9 @@
   <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt = "js" />
   <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
   
-  
-  - <h5> currently learning </h5>
+- <h4> currently learning </h4>
   <img src = "https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt = "nest" />
   <img src = "https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt = "kaggle" />
-  
-<br>
-
     
 - <h4> tool box </h4>
   <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" /><br>
@@ -39,13 +35,12 @@
   <img src = "https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt = "scikit" />
   <img src = "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt = "numpy" />
   <img src = "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt = "pandas" />
-  
-<br>
 
 - <h4>contact me</h4>
   Email: <b>ggoes269@gmail.com</b> <br>
   Kaggle: gmgoes<br>
   Discord: gusmgoes
+  Linkedin: [Gustavo Goes](https://www.linkedin.com/in/gustavo-goes-7b6221225/)
   
 </br>
 <p align="right"><em>my thoughts will follow you into your dreams</em></p>
