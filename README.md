@@ -9,7 +9,7 @@
 <p>I'm 21 years old, i currently live in Mato Grosso do Sul, Brazil. I'm passionate about games, books and pets 🐶🐱</p>
 
 - ⭐ i'm not working on anything specific at the moment (studying)
-- 💼 backend developer (Trainee) at [Compass UOL](https://compass.uol/en/home/)
+- 💼 backend developer at [Compass UOL](https://compass.uol/en/home/)
 - 🧠 studying a **lot** to be able to understand a **little** about our world
 
 <h2>current skills</h2>
