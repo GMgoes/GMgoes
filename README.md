@@ -2,16 +2,12 @@
 
 <div>
 
-<img align="right" width="400" alt="mari-omori" src="https://omori.wiki/images/c/cc/FA_ALBUM_46.png"/>
+<img align="right" width="400" alt="A figura representa a personagem Mari, de Omori, tocando um piano" src="https://omori.wiki/images/c/cc/FA_ALBUM_46.png"/>
 
 <h2>about me</h2>
   
 <p>I'm 21 years old, i currently live in Mato Grosso do Sul, Brazil. I'm passionate about games, books and pets 🐶🐱</p>
-
-- ⭐ i'm not working on anything specific at the moment (studying)
-- 💼 backend developer at [Compass UOL](https://compass.uol/en/home/)
-- 🧠 studying a **lot** to be able to understand a **little** about our world
-
+<p>This is my personal Github, for <b>academic work and technology learning</b> 😉</p>
 <h2>current skills</h2>
   
 - <h4> languages </h4>
