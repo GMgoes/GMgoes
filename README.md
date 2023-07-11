@@ -24,6 +24,7 @@
 - <h4> currently learning </h4>
   <img src = "https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt = "nest" />
   <img src = "https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt = "kaggle" />
+  <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react" />
     
 - <h4> already studied/worked </h4>
   <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" /><br>
