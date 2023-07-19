@@ -1,14 +1,13 @@
 <p align = center >Hi</p>
 
 <div>
-
 <img align="right" width="400" alt="A figura representa a personagem Mari, de Omori, tocando um piano" src="https://omori.wiki/images/c/cc/FA_ALBUM_46.png"/>
-
 <h2>about me</h2>
   
 <p>I'm 21 years old and currently live in Mato Grosso do Sul, Brazil. I have a passion for games, books, and pets. 🐶🐱</p>
 <p>This is my personal Github for academic work and learning about technology.</p>
-<p style="color: black;"><b>The repositories developed here do not contain any links or information related to the companies I'm working with.</b> 📌</p>
+<p>The repositories developed here do not contain any links or information related to the companies I'm working with. 📌</p>
+
 <h2>current skills</h2>
   
 - <h4> languages </h4>
