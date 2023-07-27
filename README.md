@@ -6,7 +6,7 @@
   
 <p>I'm 21 years old and currently live in Mato Grosso do Sul, Brazil. I have a passion for games, books, and pets. 🐶🐱</p>
 <p>This is my personal Github for academic work and learning about technology.</p>
-<p>The repositories developed here do not contain any links or information related to the companies I'm working with. 📌</p>
+<p>The repositories developed here {c:red}do not{/c} contain any links or information related to the companies I'm working with. 📌</p>
 
 <h2>current skills</h2>
   
