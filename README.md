@@ -55,6 +55,8 @@ Kaggle: <b>[gmgoes](https://www.kaggle.com/gmgoes)</b><br>
 Discord: <b>gusmgoes</b><br>
 Linkedin: <b>[Gustavo Goes](https://www.linkedin.com/in/gustavo-goes-7b6221225/)</b><br>
 Gitlab: <b>GMgoes</b><br>
+
+Last Update: <b>08/23<b>
   
 <p align="right"><em>my thoughts will follow you into your dreams</em></p>
 
