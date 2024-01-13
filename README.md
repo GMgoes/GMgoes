@@ -66,4 +66,6 @@ Last Update: <b>01/24<b>
 <p align="right"><em>my thoughts will follow you into your dreams</em></p>
 
 ------
-Credit: [zillastar](https://github.com/zillastar) - Template<br>
+Credit: <br>
+[zillastar](https://github.com/zillastar) - Template<br>
+[?] - Icon<br>
