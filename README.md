@@ -68,4 +68,5 @@ Last Update: <b>01/24<b>
 ------
 Credit: <br>
 [zillastar](https://github.com/zillastar) - Template<br>
-[?] - Icon<br>
+[Ileriayo](https://github.com/Ileriayo) - Badges<br>
+[?] - Profile icon<br>
