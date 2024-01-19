@@ -59,8 +59,7 @@
 Email: <b>ggoes269@gmail.com</b><br>
 Kaggle: <b>[gmgoes](https://www.kaggle.com/gmgoes)</b><br> 
 Discord: <b>gusmgoes</b><br>
-Linkedin: <b>[Gustavo Goes](https://www.linkedin.com/in/gustavo-goes-7b6221225/)</b><br>
-Gitlab: <b>GMgoes</b><br>
+Linkedin: <b>[Gustavo Goes](https://www.linkedin.com/in/gustavo-goes-7b6221225/)</b><br>]
 
 Last Update: <b>01/24<b>
   
