@@ -2,12 +2,12 @@
 
 <div>
 <img align="right" width="400" alt="A figura representa a personagem Mari, de Omori, tocando um piano" src="https://omori.wiki/images/c/cc/FA_ALBUM_46.png"/>
-<h2>about me</h2>
+<h4>about me</h4>
   
 <p>I'm 22 years old and currently live in Mato Grosso do Sul</p>
 <p>This is my personal Github for academic work and learning about technology (code lab). The repositories developed here do not contain any links or information related to the companies I'm working with. 📌</p>
 
-<h2>current skills</h2>
+<h4>current skills</h4>
   
 - <h4> languages </h4>
   <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt = "C"/><br>
