@@ -1,6 +1,5 @@
 <p align = center ><strong>about me</strong></p>
 
-<div>
 <img align="right" width="400" alt="A figura representa a personagem Mari, de Omori, tocando um piano" src="https://omori.wiki/images/c/cc/FA_ALBUM_46.png"/>
   
 <p>I'm 22 years old and currently live in Mato Grosso do Sul</p>
