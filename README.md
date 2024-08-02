@@ -7,7 +7,7 @@
 
 <h4>Current skills</h4>
   
-- <h4> languages </h4>
+- <h4> Languages </h4>
   <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt = "C"/><br>
   <img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=whitee" alt = "c-plus-plus"/>
   <img src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt = "php"/><br>
