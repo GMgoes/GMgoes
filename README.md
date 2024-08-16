@@ -3,7 +3,6 @@
   
 <p>I'm 22 years old and currently live in Mato Grosso do Sul</p>
 <p>This is my personal Github for academic work and learning about technology (code lab). </p>
-<p><b> The repositories developed here do not contain any links or information related to the companies I'm working with. 📌</b></p>
 
 <h4>Current skills</h4>
   
