@@ -68,5 +68,5 @@ Last Update: <b>01/24<b>
 ------
 Credit: <br>
 [durgeshsamariya](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - Template<br>
-[Ileriayo](https://github.com/Ileriayo) - Badges<br>
+[Ileriayo](https://github.com/Ileriayo/markdown-badges) - Badges<br>
 [?] - Profile icon<br>
