@@ -1,10 +1,9 @@
 <div>
 <img align="right" width="400" alt="A figura representa a personagem Mari, de Omori, tocando um piano" src="https://omori.wiki/images/c/cc/FA_ALBUM_46.png"/>
   
-<p>I'm 22 years old and currently live in Mato Grosso do Sul</p>
-<p>This is my personal Github for academic work and learning about technology (code lab). </p>
+<p>I'm 22 years old and currently live in Mato Grosso do Sul, this is my personal Github for academic work and learning about technology.</p>
 
-<h4>Current skills</h4>
+<h4>Hard skills</h4>
   
 - <h4> Languages </h4>
   <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt = "C"/><br>
@@ -15,13 +14,8 @@
   <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt = "py"/><br>
   <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt = "js"/> 
   <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts"/>
-  
-- <h4> Currently learning </h4>
-  <img src = "https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt = "graphql"/>
-  <img src = "https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt = "gatsby"/>
-  <img src = "https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt = "testing-library"/>
  
-- <h4> Already studied/worked </h4>
+- <h4> Tools </h4>
   <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt = "git"/><br>
   <img src = "https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt = "jest"/>
   <img src = "https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt = "vuejs"/><br>
@@ -56,10 +50,10 @@
   <img src = "https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt = "hibernate"/>
 <br>
 
-Email: <b>ggoes269@gmail.com</b><br>
-Kaggle: <b>[gmgoes](https://www.kaggle.com/gmgoes)</b><br> 
-Discord: <b>gusmgoes</b><br>
-Linkedin: <b>[Gustavo Goes](https://www.linkedin.com/in/gustavo-goes-7b6221225/)</b><br>
+<h4> Contact </h4>
+  Email: ggoes269@gmail.com
+  
+  Linkedin: [Gustavo Goes](https://www.linkedin.com/in/gustavo-goes-7b6221225/)
 
 Last Update: <b>01/24<b>
   
@@ -69,4 +63,4 @@ Last Update: <b>01/24<b>
 Credit: <br>
 [durgeshsamariya](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - Template<br>
 [Ileriayo](https://github.com/Ileriayo/markdown-badges) - Badges<br>
-[?] - Profile icon<br>
+[?] - Profile icon (If you are the owner of this image, please contact me)<br>
