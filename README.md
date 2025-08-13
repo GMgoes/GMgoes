@@ -1,7 +1,7 @@
 <div>
 <img align="right" width="400" alt="A figura representa a personagem Mari, de Omori, tocando um piano" src="https://omori.wiki/images/c/cc/FA_ALBUM_46.png"/>
   
-<p>I'm 22 years old and currently live in Mato Grosso do Sul, this is my personal Github for academic work and learning about technology.</p>
+<p>I'm 24 years old and currently live in Mato Grosso do Sul, this is my personal Github for academic work and learning about technology.</p>
 
 <h4>Hard skills</h4>
   
@@ -30,7 +30,7 @@
   <img src = "https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt = "spring"/>
   <img src = "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt = "pandas"/>
   <img src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt = "django"/>
-  <img src = "https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt = "fastify"/><br>
+  <img src = "https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt = "fastify"/> <br>
   <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt = "node"/>
   <img src = "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt = "arduino"/>
   <img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt = "mongodb"/>
@@ -41,13 +41,16 @@
   <img src = "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt = "AWS"/>
   <img src = "https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt = "scikit"/>
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma"/>
-  <img src = "https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt = "figma"/>
-  <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma"/>
-  <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt = "css"/><br>
+  <img src = "https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt = "jwt"/>
+  <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt = "css"/>
   <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt = "html"/>
   <img src = "https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt = "latex"/> 
   <img src = "https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt = "sequelize"/>
   <img src = "https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt = "hibernate"/>
+  <img src = "https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt = "antd"/>
+  <img src = "https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" alt = "vuetify"/>
+  <img src = "https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white" alt = "zod"/>
+
 <br>
 
 <h4> Contact </h4>
@@ -55,7 +58,7 @@
   
   Linkedin: [Gustavo Goes](https://www.linkedin.com/in/gustavo-goes-7b6221225/)
 
-Last Update: <b>01/24<b>
+Last Update: <b>08/25<b>
   
 <p align="right"><em>my thoughts will follow you into your dreams</em></p>
 
